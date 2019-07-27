@@ -1,0 +1,2 @@
+# vue-janken
+janken-game
